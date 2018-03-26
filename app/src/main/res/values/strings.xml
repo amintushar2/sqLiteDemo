@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sqlLiteDemo</string>
+    <string name="add_todo_title">Add TODO Title</string>
+    <string name="save">Save</string>
+    <string name="type_todo_description">Type toDo Description</string>
+
+</resources>

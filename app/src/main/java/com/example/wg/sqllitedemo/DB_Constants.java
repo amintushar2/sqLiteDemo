@@ -1,0 +1,1 @@
+package com.example.wg.sqllitedemo;public class DB_Constants {         public static final String DATABASE_NAME ="My_notes_DB";         public static final int DATABASE_VERSION = 1;}
